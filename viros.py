@@ -6,13 +6,18 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import requests
 
+# cria pasta foto
+if not os.path.exists('foto'):
+    os.mkdir('foto')
+    print(f"The folder 'foto' has been created.")
+else:
+    print(f"The 'foto' folder already exists.")
+
 # URL of the Wayback Machine archive
 archive_url = "https://web.archive.org/web/*/http://www.humor.nl/funnypics/*"
 
 # Create a Firefox WebDriver instance
 driver = webdriver.Firefox()
-
-# Navigate to the archive URL
 driver.get(archive_url)
 
 #esperando o DOM
