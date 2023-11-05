@@ -69,3 +69,129 @@ JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error
 JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
 JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
 1699183694524	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1699184817179	geckodriver	INFO	Listening on 127.0.0.1:60616
+1699184820184	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\victor\\AppData\\Local\\Temp\\rust_mozprofileCAL7Rb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699184820475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699184820597	Marionette	INFO	Listening on port 60628
+WebDriver BiDi listening on ws://127.0.0.1:60617
+Read port: 60628
+1699184820768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60617/devtools/browser/93d283e9-62d4-401f-9187-d5cb96d5f084
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: https://web.archive.org/web/20060302113324/http://humor.nl/funnypics/s027.jpg, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+1699185477555	geckodriver	INFO	Listening on 127.0.0.1:60760
+1699185480559	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\victor\\AppData\\Local\\Temp\\rust_mozprofilehqNtj9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699185480843	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699185480959	Marionette	INFO	Listening on port 60770
+Read port: 60770
+WebDriver BiDi listening on ws://127.0.0.1:60761
+1699185481011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60761/devtools/browser/149dc64e-659f-4ad5-9517-de4a8ac72063
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: https://web.archive.org/web/20060302113324/http://humor.nl/funnypics/s027.jpg, line 1: ReferenceError: MM_preloadImages is not defined
+1699185510935	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+1699185769977	geckodriver	INFO	Listening on 127.0.0.1:60854
+1699185772992	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\victor\\AppData\\Local\\Temp\\rust_mozprofileprtnGB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699185773273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699185773389	Marionette	INFO	Listening on port 60862
+Read port: 60862
+WebDriver BiDi listening on ws://127.0.0.1:60855
+1699185773439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60855/devtools/browser/29f0d366-2551-46d0-98cd-b00c9cc45e5c
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: https://web.archive.org/web/20060302113324/http://humor.nl/funnypics/s027.jpg, line 1: ReferenceError: MM_preloadImages is not defined
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1699185803318	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+1699187456682	geckodriver	INFO	Listening on 127.0.0.1:61215
+1699187459704	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\victor\\AppData\\Local\\Temp\\rust_mozprofile2eLxQ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699187460000	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699187460116	Marionette	INFO	Listening on port 61224
+WebDriver BiDi listening on ws://127.0.0.1:61216
+Read port: 61224
+1699187460273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61216/devtools/browser/414f966f-f6eb-4334-968a-1a2ca6192371
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+1699187491658	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement
+JavaScript error: resource://gre/modules/FormLikeFactory.sys.mjs, line 22: Error: createFromForm: aForm must be a HTMLFormElement

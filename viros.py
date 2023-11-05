@@ -32,6 +32,8 @@ def abreLinks():
     for img_url in image_links:
         driver.execute_script("window.open('" + 'https://web.archive.org' + img_url + "','_blank');")
 
+    time.sleep(4)
+
 def baixa_imagem(src):
     response = requests.get(src)
     if response.status_code == 200:
@@ -53,40 +55,39 @@ def passa_pagina():
     botao_next = driver.find_element(By.XPATH, botao_next_xpath)
     botao_next.click()
 
-abreLinks()
+def abaixa():
+    tab_handles = driver.window_handles
+    for index, tab_handle in enumerate(tab_handles):
+        if index == 0:
+            continue
+        driver.switch_to.window(tab_handle)
+        try:
+            body = driver.find_element('tag name','body')
+            elements_in_body = body.find_elements(By.XPATH, './/*')
 
-time.sleep(4)
-
-# separar imagens puras e baixar
-tab_handles = driver.window_handles
-
-for index, tab_handle in enumerate(tab_handles):
-    if index == 0:
-        continue
-    driver.switch_to.window(tab_handle)
-    try:
-        body = driver.find_element('tag name','body')
-        elements_in_body = body.find_elements(By.XPATH, './/*')
-
-        if len(elements_in_body) == 7: #imagem pura
-            image = driver.find_element('id','playback')
-            src = image.get_attribute('src')
-            baixa_imagem(src)
-            driver.close()
-        else: #calendario
-            #search_calendario
-            print("calendario")
+            if len(elements_in_body) == 7: #imagem pura
+                image = driver.find_element('id','playback')
+                src = image.get_attribute('src')
+                baixa_imagem(src)
+                driver.close()
+            else: #calendario
+                #search_calendario
+                print("calendario")
+                driver.close() 
+        except: #sem corpo??
+            print("sem corpo; url: " + driver.current_url)
             driver.close() 
-    except: #sem corpo??
-        print("sem corpo; url: " + driver.current_url)
-        driver.close() 
-        pass
+            pass
+    driver.switch_to.window(driver.window_handles[0])
 
-driver.switch_to.window(driver.window_handles[0])
+#############################################################
 
+#indo pra pag 3
+passa_pagina()
 passa_pagina()
 
-input('enter')
+abreLinks()
+abaixa()
 
 #separar imagens e calendarios
 calendarios = []
